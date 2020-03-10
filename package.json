@@ -1,9 +1,9 @@
 {
-  "name": "modern_portfolio",
-  "version": "1.0.0",
-  "description": "Responsive portfolio website",
+  "name": "Greg Gambino",
+  "version": "1.0.1",
+  "description": "My portfolio website",
   "main": "index.js",
-  "homepage": "https://gfg13.github.io/modern_portfolio",
+  "homepage": "https://gfg13.github.io/greg_gambino",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
