@@ -1,7 +1,7 @@
 {
-  "name": "Greg Gambino",
-  "version": "1.0.1",
-  "description": "My portfolio website",
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
   "main": "index.js",
   "homepage": "https://gfg13.github.io/greg_gambino",
   "scripts": {
